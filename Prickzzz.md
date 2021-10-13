@@ -1,8 +1,8 @@
 <ul id="id01">
-  <li>Oslo</li>
-  <li>Stockholm</li>
-  <li>Helsinki</li>
-  <li>Berlin</li>
+  <li>22 Oslo</li>
+  <li>1 Stockholm</li>
+  <li>3 Helsinki</li>
+  <li>45 Berlin</li>
   <li>Rome</li>
   <li>Madrid</li>
 </ul>
