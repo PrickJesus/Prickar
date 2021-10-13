@@ -1,8 +1,16 @@
+<!DOCTYPE html>
+<html>
+<title>Sort a HTML List Alphabetically</title>
+<body>
+
+<p>Click the button to sort the list alphabetically:</p>
+<button onclick="sortList()">Sort</button>
+
 <ul id="id01">
-  <li>22 Oslo</li>
+  <li>2 Oslo</li>
   <li>1 Stockholm</li>
   <li>3 Helsinki</li>
-  <li>45 Berlin</li>
+  <li>Berlin</li>
   <li>Rome</li>
   <li>Madrid</li>
 </ul>
@@ -15,18 +23,19 @@ function sortList() {
   /* Make a loop that will continue until
   no switching has been done: */
   while (switching) {
-    // Start by saying: no switching is done:
+    // start by saying: no switching is done:
     switching = false;
     b = list.getElementsByTagName("LI");
-    // Loop through all list items:
+    // Loop through all list-items:
     for (i = 0; i < (b.length - 1); i++) {
-      // Start by saying there should be no switching:
+      // start by saying there should be no switching:
       shouldSwitch = false;
-      /* Check if the next item should
+      /* check if the next item should
       switch place with the current item: */
       if (b[i].innerHTML.toLowerCase() > b[i + 1].innerHTML.toLowerCase()) {
-        /* If next item is alphabetically lower than current item,
-        mark as a switch and break the loop: */
+        /* if next item is alphabetically
+        lower than current item, mark as a switch
+        and break the loop: */
         shouldSwitch = true;
         break;
       }
@@ -40,3 +49,6 @@ function sortList() {
   }
 }
 </script>
+
+</body>
+</html>
