@@ -9,7 +9,7 @@ Mind maps and quick references about crypto currency
 | Name | Platform | Consensus | Total supply | Circulating supply |
 |:-----|:---------|:----------|-------------:|-------------------:|
 | BTC (Bitcoin) | Bitcoin   | PoW   | 21,000,000        | 18,587,731 |
-| ETH (Ethereum)| Ethereum  | PoW   |                   | 114,075,883|
+| ETH (Ethereum)| Ethereum  | PoW   |                   | 14,075,883|
 | XRP (Ripple)  |           |       | 100,000,000,000   | 45,425,790,652|
 
 # List of ERC-20 tokens
