@@ -14,6 +14,6 @@ Pricköverblick.
 | Oskar | 15 |
 | Eric | 18 |
 | Kolbe | 25 |
-| Furkan | 30 |
+| Furkan | 99 |
 | Viktor | 31 |
 | Dum-Erik | 999 |
