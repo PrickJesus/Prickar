@@ -9,7 +9,7 @@ Pricköverblick.
 | Namn | Antal prickar |
 |:-----|:---------|
 | Nia | 1,5 |
-| Jessica | 2 |
+| Jessica | 1 |
 | Jesper | 5 |
 | Oskar | 15 |
 | Eric | 20 |
