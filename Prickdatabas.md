@@ -10,7 +10,7 @@ Pricköverblick.
 |:-----|:---------|
 | Jessica | 1 |
 | Nia | 1,5 |
-| Jesper | 5 |
+| Jesper | 7 |
 | Oskar | 14 |
 | Eric | 20 |
 | Kolbe | 14 |
