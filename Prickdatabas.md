@@ -10,10 +10,9 @@ Pricköverblick.
 |:-----|:---------|
 | Jessica | 1 |
 | Nia | 1,5 |
-| Jesper | 5 |
+| Jesper | 8 |
 | Oskar | 14 |
-| Eric | 20 |
 | Kolbe | 14 |
-| Furkan | 30 |
+| Eric | 18 |
+| Furkan | 30.5 |
 | Viktor | 31 |
-| Dum-Erik | 999 |
