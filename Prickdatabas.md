@@ -4,7 +4,7 @@ Pricköverblick.
 # Lista av prickinnehavare
 
 - Detta är prickar.
-- Akta ditt sPrååK!!!!!!!!!!!!!!!!!!!!!
+- Akta ditt sPrååK!!!!!!!!!!!!!!!!!!!!!!
 
 | Namn | Antal prickar |
 |:-----|:---------|
