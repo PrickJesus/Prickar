@@ -11,7 +11,6 @@ Pricköverblick.
 | Jessica | 1 |
 | Nia | 1,5 |
 | Jesper | 8 |
-| Oskar | 14 |
 | Kolbe | 14 |
 | Eric | 18 |
 | Furkan | 30.5 |
